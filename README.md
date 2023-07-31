@@ -11,6 +11,6 @@
 
 IP-адрес 158.160.116.15
 
-Frontend https://...
+Frontend https://react-mesto-api-full-gha.nomoreparties.co
 
-Backend https://...
+Backend https://react-mesto-api-backend.nomoreparties.co
