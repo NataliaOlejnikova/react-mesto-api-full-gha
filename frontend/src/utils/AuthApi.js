@@ -49,6 +49,6 @@ class AuthApi {
 }
 
 
-const apiAuth = new AuthApi('https://backend.nomoreparties.sbs');
+const apiAuth = new AuthApi('https://react-mesto-api-backend.nomoreparties.co');
 
 export default apiAuth;
