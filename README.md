@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.116.15
+IP 158.160.116.15
 
 Frontend https://react-mesto-api-full-gha.nomoreparties.co
 
